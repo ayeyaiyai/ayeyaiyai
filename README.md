@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Connor</h1>
+## Hi there 👋
+
+## About me
+
+I'm Connor - a self-taught full-stack developer who began studying in 2022. I thoroughly enjoy problem-solving and turning complex tasks into simple, elegant solutions. My passion lies in front end development, and I am confident in my ability to replicate design templates using react and CSS. 
+
+🌱 I’m currently learning node.js and Tailwind.
+
+## My Top Skills
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeyaiyai&show_icons=true&locale=en&layout=compact" alt="ayeyaiyai" /></p>
+
 
 <!--
 **ayeyaiyai/ayeyaiyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
