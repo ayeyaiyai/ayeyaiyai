@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About me
 
 I'm Connor - a self-taught full-stack developer who began studying in 2022. I thoroughly enjoy problem-solving and turning complex tasks into simple, elegant solutions. My passion lies in front end development, and I am confident in my ability to replicate design templates using react and CSS. 
